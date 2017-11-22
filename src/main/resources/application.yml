@@ -1,0 +1,9 @@
+server:
+  port: 8081
+  
+druid:
+    url: 127.0.0.1
+    username: root
+    password: root
+    driver-class-name: com.mysql.jdbc.ReplicationDriver
+    
